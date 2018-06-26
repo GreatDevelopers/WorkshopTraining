@@ -3,33 +3,19 @@
 #SAFETY PRECAUTIONS
 
 1. DO NOT FORGET TO PUT OFF THE MAIN SWITCH WHEN YOU ARE WORKING ON SUPPLY LINE. 
-
 2. ALWAYS BE CAREFUL. 
-
 3. YOU SHOULD NOT ENERGISE ANY CONDUCTOR UNLESS YOU ARE SURE THAT ALL IS CLEAR AND THERE IS NO ONE WORKING ON IT. 
-
 4. YOU SHOULD NOT TAMPER UNNECESSARILY WITH LIVE ELECTRICAL GEAR. 
-
 5. BEFORE REPLACING BLOWN FUSE. ALWAYS PUT THE MAIN SWITCH OFF. 
-
 6. ALL THE MACHINES SHOULD BE PROPERLY AND NICELY EARTHED. 
-
 7. LIVE WIRES SHOULD ALWAYS BE CONTROLLED THROUGH KIT-KAT FUSE AND SWITCH. 
-
 8. DO NOT USE A PLIER AS A HAMMER. 
-
 9. DO NOT PUT A SHARP EDGED TOOL IN YOUR POCKET. 
-
 10. IF YOU WANT TO HAND OVER ANY SHARP TOOL TO SOMEONE ELSE, GIVE IT FROM HANDLE SIDE, OTHERWISE IT CAN INJURE THE HAND. 
-
 11. NEVER USE ANY TOOLS LIKE FILE, KNIFE, SCREW-DRIVER ETC. WITHOUT HANDLE. 
-
 12. IN RAINY SEASON APPLY GREASE ON TOOLS TO AVOID RUST.
-
 13. IN CASE OF ELECTRIC FIRE, DO NOT THROW WATER ON LIVE CONDUCTOR AND EQUIPMENT AS IT DANGEROUS. DISCONNECT ELECTRIC SUPPLY IMMEDIATELY AND THEN THROW SAND ON THE FIRE. 
-
 14. IN CASE OF FIRE ONLY C02 EXTINGUISHER IS USED FOR THIS PURPOSE 
-
 15. BEFORE STARTING THE WORK ON A POLE OR TOWER, YOU MUST USE SAFETY BELT AND LADDER. THE LADDER MUST BE HELD BY ANOTHER PERSON. 
 
 #INTRODUCTION 
@@ -44,21 +30,17 @@ Common tools used in electric shop are as under :
 
 2. Plier : Plier is used to perform the following functions : 
 
-          * Cutting of wires 
-
-          * Twisting pairs of wires 
-
-          * Loosening or tightening small nuts.
-
-          * Holding purposes.
-
-          * Removing the insulation of wires. 
+       * Cutting of wires 
+       * Twisting pairs of wires 
+       * Loosening or tightening small nuts.
+       * Holding purposes.
+       * Removing the insulation of wires. 
 
 Three types of pliers are commonly used in electric shop: 
 
-          - Flat nose plier 
-          - Long nose plier 
-          - Side cutting plier 
+    - Flat nose plier 
+    - Long nose plier 
+    - Side cutting plier 
 
 Flat plier has two jaws. It is used for holding, tightening or loosening of nuts. Long nose plier has two long jaws. It is used for radio work. Side cutting plier is used to cut the wire or strips. It has two cutting edges. 
 
@@ -91,8 +73,6 @@ Handle is made up of plastic or wood and blade is made up of steel. The top of t
 It is a very common tool used in electrical shop. A small bulb is fitted inside a transparent handle. When checking the supply the blade is touched to the point and the finger tip is placed on the backside of the handle. If the bulb glows, it shows that electric current is flowing through the wire. 
 
 12. Series Iamp : It is also known as test lamp It is used to make different tests and checks of electric terminals. It consists of a bulb with two wires. It is generally used for checking electrical items like starter, choke, condenser etc. 
-
-
 
 #JOB NO. 1  
 
