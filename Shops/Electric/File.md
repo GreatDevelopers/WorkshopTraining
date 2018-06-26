@@ -40,7 +40,8 @@ Electricity is an essential need of our daily life. lt is widely used for domest
 
 Common tools used in electric shop are as under :  
 
-1. Knife : Knife is a cutting tool used to remove the insulation from wires. While using knife it should not cut the inner wire. 
+1. Knife 
+: Knife is a cutting tool used to remove the insulation from wires. While using knife it should not cut the inner wire. 
 
 2. Plier : Plier is used to perform the following functions : 
 
@@ -64,7 +65,7 @@ Flat plier has two jaws. It is used for holding, tightening or loosening of nuts
 
 3. Screw driver :  Screw driver consist of the following parts: 
 
-                 * Handle 
+          * Handle 
           * Blade
 
 Handle is made up of plastic or wood and blade is made up of steel. The top of the blade is flattened. Screw driver is used to loosen or tighten the screws. 
@@ -85,8 +86,8 @@ Handle is made up of plastic or wood and blade is made up of steel. The top of t
 
 11. Test pen :- Test pen has the following functions:
 
-* To check the supply 
-* Loosening or tightening small screws. 
+        * To check the supply 
+        * Loosening or tightening small screws. 
 
 It is a very common tool used in electrical shop. A small bulb is fitted inside a transparent handle. When checking the supply the blade is touched to the point and the finger tip is placed on the backside of the handle. If the bulb glows, it shows that electric current is flowing through the wire. 
 
@@ -142,32 +143,16 @@ Wooden Board 8” X 10”, Kit Kat Fuse 250 volt 16 amp, One Way Switch 250 volt
 ##PROCEDURE
 
 1. Make layout and connection diagram.
-
 2. Place the accessories on wooden board as shown in diagram. 
-
 3. Mark their positions and points where holes and pilot holes are required.
-
 4. Make holes and pilot holes with the help of drill machine and packer. 
-
 5. Fix the accessories on wooden board and make connection. 
-
 6. Check the all connections carefully before giving supply. 
-
 7. After checking connections, fix the cover of accessories and give supply.
 
 ##PRECAUTIONS 
 
 1. Always control phase wire through Kit Kat Fuse and Switch. 
-
 2. All the connection should be tight and accessories should be fitted well.
-
 3. Use the proper tools.
-
 4. All the naked joints should be properly taped.
-
-
-
-
-
-
-
