@@ -44,26 +44,28 @@ Common tools used in electric shop are as under :
 
 2. Plier: Plier is used to perform the following functions : 
 
-i) Cutting of wires 
+* Cutting of wires 
 
-ii) Twisting pairs of wires 
+* Twisting pairs of wires 
 
-iii) Loosening or tightening small nuts.
+* Loosening or tightening small nuts.
 
-iv) Holding purposes.
+* Holding purposes.
 
-v) Removing the insulation of wires. Three types of pliers are commonly used in electric shop: 
+* Removing the insulation of wires. 
 
-(a) Flat nose plier 
-(b) Long nose plier 
-(c) Side cutting plier 
+Three types of pliers are commonly used in electric shop: 
+
+- Flat nose plier 
+- Long nose plier 
+- Side cutting plier 
 
 Flat plier has two jaws. It is used for holding, tightening or loosening of nuts. Long nose plier has two long jaws. It is used for radio work. Side cutting plier is used to cut the wire or strips. It has two cutting edges. 
 
 3. Screw driver :-  Screw driver consist of the following parts: 
 
-i) Handle 
-ii) Blade
+* Handle 
+* Blade
 
 Handle is made up of plastic or wood and blade is made up of steel. The top of the blade is flattened. Screw driver is used to loosen or tighten the screws. 
 
@@ -83,8 +85,8 @@ Handle is made up of plastic or wood and blade is made up of steel. The top of t
 
 11. Test pen :- Test pen has the following functions:
 
-(i) To check the supply 
-(ii) Loosening or tightening small screws. 
+* To check the supply 
+* Loosening or tightening small screws. 
 
 It is a very common tool used in electrical shop. A small bulb is fitted inside a transparent handle. When checking the supply the blade is touched to the point and the finger tip is placed on the backside of the handle. If the bulb glows, it shows that electric current is flowing through the wire. 
 
@@ -108,36 +110,22 @@ Wooden Board 7"x 4", Kit Kat Fuse 240 volt 16 amp, One Way Switch 250 volt 5 amp
 
 1. Cut the two wooden batten pieces 10" and 8". 
 2. Give the slope cutting on the both ends of batten pieces. 
-
 3. Fix the joint clips on the wooden batten at equal distance with the help of nails.
-
 4. Fix the batten pieces on the wiring board with 30mm screw according to fitting diagram. 
-
 5. Cut the wires according to required length and fix on the wooden batten with joint clips 
-
 6. Make holes on the round block with drill machine. 
-
 7. Cross the wires through round block holes and fix with 50mm screw. 
-
 8. Connect the wires to batten holder and fix with 20mm screw on the round block. 
-
 9 . Fix the accessories on the wooden board and make their internal connection. 
-
 10. Make connections on the wiring board and fix with 50mm screw. 
-
 11. Test the wiring with Megger. 
 
 ##PRECAUTIONS . 
 
 1. Always control phase wire through Kit Kat Fuse and Switch. 
-
-2. All the connection should be tight and accessories should be fitted well 
-
+2. All the connection should be tight and accessories should be fitted well. 
 3. Use the proper tools. 
-
 4. All the naked joints should be properly taped.
-
-
 
 #JOB 2
 
