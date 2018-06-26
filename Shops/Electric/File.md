@@ -40,9 +40,9 @@ Electricity is an essential need of our daily life. lt is widely used for domest
 
 Common tools used in electric shop are as under :  
 
-1. Knife :- Knife is a cutting tool used to remove the insulation from wires. While using knife it should not cut the inner wire. 
+1. Knife : Knife is a cutting tool used to remove the insulation from wires. While using knife it should not cut the inner wire. 
 
-2. Plier: Plier is used to perform the following functions : 
+2. Plier : Plier is used to perform the following functions : 
 
 * Cutting of wires 
 
@@ -62,7 +62,7 @@ Three types of pliers are commonly used in electric shop:
 
 Flat plier has two jaws. It is used for holding, tightening or loosening of nuts. Long nose plier has two long jaws. It is used for radio work. Side cutting plier is used to cut the wire or strips. It has two cutting edges. 
 
-3. Screw driver :-  Screw driver consist of the following parts: 
+3. Screw driver :  Screw driver consist of the following parts: 
 
 * Handle 
 * Blade
