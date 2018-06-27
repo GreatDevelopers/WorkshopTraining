@@ -14,14 +14,14 @@ difference()
  //Main block   
  cube([70,60,40]);
 
-  translate([-1,9,41])
+  translate([-1,10,41])
   //V cutout
    union()
       { 
          rotate([-45,0,0])
          prism(72,29,29);
          
-        translate([0,18,-22])
+        translate([0,18,-23])
          cube([72,5,5]);
        }
     //Square Block cut out1
