@@ -1,3 +1,3 @@
-## TOOLS 
+## MATERIAL
 
-Tennon Saw 10", Screw Driver 8", Connector Screw Driver 4", Combination Plier 8”, Firmer Chiesel 1/2", Electrician Knife, Pocker, Hand Drill Machine, Steel Foot Rule, Side Cutting Plier 8", Try square, Ball Pien Hammer 0.25 kg, Mallet 1/2kg. 
+Wooden Board 8” X 10”, Kit Kat Fuse 250 volt 16 amp, One Way Switch 250 volt 5 amp, 3-pin wall Socket 250 volt 5 amp, Batten Holder, Wooden Screw 20mm, P.V.C Wire 1/18 S.W.G. 
