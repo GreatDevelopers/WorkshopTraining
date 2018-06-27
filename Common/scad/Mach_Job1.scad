@@ -57,7 +57,7 @@ rotate([90,0,0])
    cylinder(5,18/2,18/2);
    
        //gear section
-     Gear(20,26,25,2,2);
+     Gear(13,24,25,3,3);
      
       translate([0,0,25])
      cylinder(20,21/2,21/2);
