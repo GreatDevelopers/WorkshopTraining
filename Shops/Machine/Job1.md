@@ -46,6 +46,7 @@ Mark 87 mm length from face end and the groove is made 10 mm wide and 5 mm wide 
 reduced from 25.4 mm up to core dia. (cd) as calculated above. 
  
 Step - 8. Taper Turning - 
+
 tanɸ = D-d/2L  or ɸ = (D-d/2L) × 144/5
  
 The compound slide is set at a calculated angle i.e. 4°6' and start taper turning with compound slide. 
@@ -62,8 +63,13 @@ teeth and module.
  
 Formula for spur gear:-
 N = no. of teeth = 13
+
 M = module = 2
+
 OD of gear blank = (N+2)M = (13+2)2 = 30mm
+
 Depth of teeth = 2.157 x M
+
 Indexing = 40/N = 40/13 = 3+1/13 = 3+3/39 
+
 i.e. 3 complete circle and 3 holes out of 39 hole circle plate. 
