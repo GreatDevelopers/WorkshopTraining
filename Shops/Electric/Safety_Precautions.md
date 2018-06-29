@@ -1,17 +1,17 @@
 # SAFETY PRECAUTIONS
 
-1. DO NOT FORGET TO PUT OFF THE MAIN SWITCH WHEN YOU ARE WORKING ON SUPPLY LINE. 
-1. ALWAYS BE CAREFUL. 
-1. YOU SHOULD NOT ENERGISE ANY CONDUCTOR UNLESS YOU ARE SURE THAT ALL IS CLEAR AND THERE IS NO ONE WORKING ON IT. 
-1. YOU SHOULD NOT TAMPER UNNECESSARILY WITH LIVE ELECTRICAL GEAR. 
-1. BEFORE REPLACING BLOWN FUSE. ALWAYS PUT THE MAIN SWITCH OFF. 
-1. ALL THE MACHINES SHOULD BE PROPERLY AND NICELY EARTHED. 
-1. LIVE WIRES SHOULD ALWAYS BE CONTROLLED THROUGH KIT-KAT FUSE AND SWITCH. 
-1. DO NOT USE A PLIER AS A HAMMER. 
-1. DO NOT PUT A SHARP EDGED TOOL IN YOUR POCKET. 
-1. IF YOU WANT TO HAND OVER ANY SHARP TOOL TO SOMEONE ELSE, GIVE IT FROM HANDLE SIDE, OTHERWISE IT CAN INJURE THE HAND. 
-1. NEVER USE ANY TOOLS LIKE FILE, KNIFE, SCREW-DRIVER ETC. WITHOUT HANDLE. 
-1. IN RAINY SEASON APPLY GREASE ON TOOLS TO AVOID RUST.
-1. IN CASE OF ELECTRIC FIRE, DO NOT THROW WATER ON LIVE CONDUCTOR AND EQUIPMENT AS IT DANGEROUS. DISCONNECT ELECTRIC SUPPLY IMMEDIATELY AND THEN THROW SAND ON THE FIRE. 
-1. IN CASE OF FIRE ONLY C02 EXTINGUISHER IS USED FOR THIS PURPOSE 
-1. BEFORE STARTING THE WORK ON A POLE OR TOWER, YOU MUST USE SAFETY BELT AND LADDER. THE LADDER MUST BE HELD BY ANOTHER PERSON. 
+1. Do not forget to put off the main switch when you are working on supply line. 
+1. Always be careful. 
+1. You should not energise any conductor unless you are sure that all is clear and there is no one working on it. 
+1. You should not tamper unnecessarily with live electrical gear. 
+1. Before replacing blown fuse, always put the main switch off. 
+1. All the machines should be properly and nicely earthed. 
+1. Live wires should always be controlled through kit-kat fuse and switch. 
+1. Do not use a plier as a hammer. 
+1. Do not put a sharp edged tool in your pocket. 
+1. If you want to hand over any sharp tool to someone else, give it from handle side, otherwise it can injure the hand. 
+1. Never use any tools like file, knife, screw-driver etc. without handle. 
+1. In rainy season apply grease on tools to avoid rust.
+1. In case of electric fire, do not throw water on live conductor and equipment as it dangerous. Disconnect electric supply immediately and then throw sand on the fire. 
+1. In case of fire only CO~2~ extinguisher is used for this purpose. 
+1. Before starting the work on a pole or tower, you must use safety belt and ladder. The ladder must be held by another person. 
