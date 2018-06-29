@@ -13,5 +13,5 @@
 1. Never use any tools like file, knife, screw-driver etc. without handle. 
 1. In rainy season apply grease on tools to avoid rust.
 1. In case of electric fire, do not throw water on live conductor and equipment as it dangerous. Disconnect electric supply immediately and then throw sand on the fire. 
-1. In case of fire only CO~2~ extinguisher is used for this purpose. 
+1. In case of fire only CO<sub>2</sub> extinguisher is used for this purpose. 
 1. Before starting the work on a pole or tower, you must use safety belt and ladder. The ladder must be held by another person. 
