@@ -1,4 +1,4 @@
-## PRECAUTIONS . 
+## PRECAUTIONS 
 
 1. Always control phase wire through Kit Kat Fuse and Switch. 
 1. All the connection should be tight and accessories should be fitted well. 
