@@ -30,7 +30,7 @@ To install the above mentioned code, run the command :
 
 ## Instructions
 
-You can simply make the pdf file of each shop seperately or a combined file of every shop, with just one command. The steps are as follows :
+You can simply make the pdf/html file of each shop seperately or a combined file of every shop, with just one command. The steps are as follows :
 
 1. Open the terminal and clone the repository in your system with the command :
 
@@ -42,28 +42,28 @@ You can simply make the pdf file of each shop seperately or a combined file of e
    
     ```` cd WorkShop ````
 
-1. Now, to produce the pdf of all the shops collectively, run the command :
+1. Now, to produce the pdf and html of all the shops collectively, run the command :
 
     ```` make ````
 
-    You can find the Workshop_file.pdf within the current directory.
+    You can find the Workshop_file.pdf and Workshop_file.html within the current directory.
 
-1. To produce file of an individual shop, run the command :
+1. To produce pdf/html of individual shop, run the command :
 
-    ```` make <particular_shop.pdf> ````
+    ```` make <particular_shop.pdf/html> ````
 
     For example, to make pdf of Electric Shop, you run :
 
     ```` make Electric.pdf ````
 
-    You can the pdf file in the directory of that particular shop under the Shops directory.
+    You can find the pdf/html file in the directory of that particular shop under the Shops directory.
 
-1. To produce the collective file as well the pdf for each shop individually, run the command :
+1. To produce the collective files as well the pdf and html for each shop individually, run the command :
 
     ```` make all ````
 
-    Each pdf is now present in its respective directory.
+    Each pdf and html is now present in its respective directory.
 
-1. To delete the pdfs produced via above commands, run the command :
+1. To delete the files produced via above commands, run the command :
 
     ```` make clean ````
