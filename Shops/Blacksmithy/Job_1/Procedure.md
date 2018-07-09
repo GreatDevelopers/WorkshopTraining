@@ -1,4 +1,5 @@
 ## PROCEDURE
+![](Common/WebGl/Bsj_1_3D.html "Hexagonal Chiesel"){.Hexagonal_Chiesel}
 
 1. Take a bar of M.S.Rod of size 5/8". Cut it to size 3 1/2" with the help of chisel and sledge hammer on anvil and swage block. 
 1. Heat the workpiece to bright yellow, in coal furnace. Hold it in Ring Tong 
@@ -11,4 +12,3 @@
 1. Slightly lift the workpiece and make the chisel face by hammering it. 
 1. Again heat the piece and make the other face by placing it on anvil and hammering it.
 1. Heat the workpiece again to red hot color and smooth it with flatter (Finishing Operations). 
-
