@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="Common/Style/Style.css">
+
 #***Summer Workshop Training***
 
 #include "Shops/Blacksmithy/main.md"
