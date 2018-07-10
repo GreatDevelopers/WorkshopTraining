@@ -4,6 +4,8 @@
 
 #include "../Job_Material.md"
 
+![Square Fitting](Common/img_pdf/Ftj_1_3D.pdf "Square Fitting"){.Jobs}
+
 #include "../Job_Procedure.md"
 
 #include "../Job_Precautions.md"
