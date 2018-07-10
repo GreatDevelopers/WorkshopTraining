@@ -4,7 +4,7 @@
 
 #include "../Job_Material.md"
 
-![](Common/WebGl/Ftj_2_3D.html "Square in Square Fitting "){.Jobs}
+![Square in Square Fitting](Common/img_pdf/Ftj_2_3D.pdf "Square in Square Fitting"){.Jobs}
 
 #include "../Job_Procedure.md"
 
