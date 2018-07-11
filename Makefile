@@ -30,7 +30,7 @@ Workshop_file.pdf : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FI
 # Creating Workshop file html
 
 Workshop_file.html : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FILES) $(MAC_FILES) $(CAR_FILES)
-	$(GPP_CMD) training.md master.md
+	$(GPP_CMD) training.md ht_master.md
 	$(PD_CMD) $@ training.md
 	rm training.md
 	$(MSG)"the current directory.\n"	
@@ -72,7 +72,7 @@ Blacksmithy.pdf : $(BLS_FILES)
 	$(MSG)"$(BLS_ADD).\n"
 
 Fitting.pdf : $(FIT_FILES)
-	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)main.md
+	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)ht_main.md
 	$(PD_CMD) $(FIT_ADD)$@ $(FIT_ADD)fit_file.md
 	rm  $(FIT_ADD)fit_file.md
 	$(MSG)"$(FIT_ADD).\n"
@@ -110,7 +110,7 @@ Foundry.html : $(FOU_FILES)
 	$(MSG)"$(FOU_ADD).\n"
 
 Blacksmithy.html : $(BLS_FILES)
-	$(GPP_CMD) $(BLS_ADD)bls_file.md $(BLS_ADD)main.md
+	$(GPP_CMD) $(BLS_ADD)bls_file.md $(BLS_ADD)ht_main.md
 	$(PD_CMD) $(BLS_ADD)$@ $(BLS_ADD)bls_file.md
 	rm  $(BLS_ADD)bls_file.md
 	$(MSG)"$(BLS_ADD).\n"
