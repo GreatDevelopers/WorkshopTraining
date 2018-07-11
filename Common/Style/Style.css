@@ -1,0 +1,11 @@
+body
+{
+	background-color: #f6f3f2;
+}
+.Jobs
+{
+	float: right;
+	height: 220px; 
+	width: 50%;
+	border: 1px solid black;
+}
