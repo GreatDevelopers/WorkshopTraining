@@ -1,5 +1,7 @@
 ## PROCEDURE
 
+![](Common/Images/electric job 2.png "Extension board"){.Jobs}
+
 1. Make layout and connection diagram.
 1. Place the accessories on wooden board as shown in diagram. 
 1. Mark their positions and points where holes and pilot holes are required.
