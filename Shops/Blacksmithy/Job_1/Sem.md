@@ -1,3 +1,3 @@
 ## CLASS / SEM. 
 
-Alter First Year (Workshop Training Summer).
+After First Year (Workshop Training Summer).
