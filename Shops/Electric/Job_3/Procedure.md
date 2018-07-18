@@ -1,5 +1,7 @@
 ## PROCEDURE
- 
+
+![](Common/Images/ELECTRIC 3.png "Circuit of one lamp and one 3-pin wall socket"){.Jobs}
+
 1. Cut the two wooden batten pieces 10” and 8".
 1. Give the slope cutting on the both ends of batten pieces.
 1. Fix the joint clips on the wooden batten at equal distance with the help of nails.

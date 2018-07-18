@@ -1,4 +1,6 @@
-## PROCEDURE 
+## PROCEDURE
+
+![](Common/Images/Electric Job 1.png "Circuit of one lamp by one switch"){.Jobs}
 
 1. Cut the two wooden batten pieces 10" and 8". 
 1. Give the slope cutting on the both ends of batten pieces. 
@@ -10,4 +12,4 @@
 1. Connect the wires to batten holder and fix with 20mm screw on the round block. 
 1. Fix the accessories on the wooden board and make their internal connection. 
 1. Make connections on the wiring board and fix with 50mm screw. 
-1. Test the wiring with Megger. 
+1. Test the wiring with Megger.
