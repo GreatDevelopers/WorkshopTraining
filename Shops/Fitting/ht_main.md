@@ -1,4 +1,4 @@
-# ***Fitting Shop***
+# ***Fitting Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
