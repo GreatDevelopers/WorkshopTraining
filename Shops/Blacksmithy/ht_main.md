@@ -1,4 +1,5 @@
-#***Blacksmithy Shop***
+<div class="BLS">
+#***Blacksmithy Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
@@ -9,3 +10,4 @@
 #include "Charts.md"
 
 #include "ht_Jobs.md"
+</div>
