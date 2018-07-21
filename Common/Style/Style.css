@@ -1,6 +1,8 @@
 body
 {
-	background-color: #f6f3f2;
+	background-color: black;
+	/*padding: 10%;*/
+	color: #22264b;
 }
 .Jobs
 {
@@ -8,4 +10,21 @@ body
 	height: 220px; 
 	width: 50%;
 	border: 1px solid black;
+}
+#summer-workshop-training
+{
+	text-align: center;
+	color: #e6af4b;
+	font-size: 5em;
+}
+.shop
+{  
+  background: linear-gradient( black, #C0C0C0);
+  color: #FF7F50; 
+  font-size : 3em;
+}
+.BLS
+{ 
+  background-color : #f2cbbc;
+	padding: 10%;
 }
