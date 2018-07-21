@@ -72,7 +72,7 @@ Blacksmithy.pdf : $(BLS_FILES)
 	$(MSG)"$(BLS_ADD).\n"
 
 Fitting.pdf : $(FIT_FILES)
-	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)ht_main.md
+	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)main.md
 	$(PD_CMD) $(FIT_ADD)$@ $(FIT_ADD)fit_file.md
 	rm  $(FIT_ADD)fit_file.md
 	$(MSG)"$(FIT_ADD).\n"
@@ -98,13 +98,13 @@ Carpentry.pdf : $(CAR_FILES)
 # Creating specific shop's html file
 
 Electric.html : $(ELE_FILES)
-	$(GPP_CMD) $(ELE_ADD)ele_file.md $(ELE_ADD)main.md
+	$(GPP_CMD) $(ELE_ADD)ele_file.md $(ELE_ADD)ht_main.md
 	$(PD_CMD) $(ELE_ADD)$@ $(ELE_ADD)ele_file.md
 	rm  $(ELE_ADD)ele_file.md
 	$(MSG)"$(ELE_ADD).\n"
 
 Foundry.html : $(FOU_FILES)
-	$(GPP_CMD) $(FOU_ADD)fou_file.md $(FOU_ADD)main.md
+	$(GPP_CMD) $(FOU_ADD)fou_file.md $(FOU_ADD)ht_main.md
 	$(PD_CMD) $(FOU_ADD)$@ $(FOU_ADD)fou_file.md
 	rm  $(FOU_ADD)fou_file.md
 	$(MSG)"$(FOU_ADD).\n"
@@ -116,25 +116,25 @@ Blacksmithy.html : $(BLS_FILES)
 	$(MSG)"$(BLS_ADD).\n"
 
 Fitting.html : $(FIT_FILES)
-	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)main.md
+	$(GPP_CMD) $(FIT_ADD)fit_file.md $(FIT_ADD)ht_main.md
 	$(PD_CMD) $(FIT_ADD)$@ $(FIT_ADD)fit_file.md
 	rm  $(FIT_ADD)fit_file.md
 	$(MSG)"$(FIT_ADD).\n"
 
 Welding.html : $(WEL_FILES)
-	$(GPP_CMD) $(WEL_ADD)wel_file.md $(WEL_ADD)main.md
+	$(GPP_CMD) $(WEL_ADD)wel_file.md $(WEL_ADD)ht_main.md
 	$(PD_CMD) $(WEL_ADD)$@ $(WEL_ADD)wel_file.md
 	rm  $(WEL_ADD)wel_file.md
 	$(MSG)"$(WEL_ADD).\n"
 
 Machine.html : $(MAC_FILES)
-	$(GPP_CMD) $(MAC_ADD)mac_file.md $(MAC_ADD)main.md
+	$(GPP_CMD) $(MAC_ADD)mac_file.md $(MAC_ADD)ht_main.md
 	$(PD_CMD) $(MAC_ADD)$@ $(MAC_ADD)mac_file.md
 	rm  $(MAC_ADD)mac_file.md
 	$(MSG)"$(MAC_ADD).\n"
 
 Carpentry.html : $(CAR_FILES)
-	$(GPP_CMD) $(CAR_ADD)car_file.md $(CAR_ADD)main.md
+	$(GPP_CMD) $(CAR_ADD)car_file.md $(CAR_ADD)ht_main.md
 	$(PD_CMD) $(CAR_ADD)$@ $(CAR_ADD)car_file.md
 	rm  $(CAR_ADD)car_file.md
 	$(MSG)"$(CAR_ADD).\n"
