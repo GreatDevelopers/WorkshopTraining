@@ -1,7 +1,6 @@
 body
 {
 	background-color: black;
-	/*padding: 10%;*/
 	color: #22264b;
 }
 .Jobs
@@ -15,7 +14,7 @@ body
 {
 	text-align: center;
 	color: #e6af4b;
-	font-size: 5em;
+	font-size: 3em;
 }
 .shop
 {  
@@ -23,8 +22,38 @@ body
   color: #FF7F50; 
   font-size : 3em;
 }
-.BLS
+.Blacksmithy, .Foundary, .Fitting, .Machine, .Welding, .Electric, .Carpentry
+{
+	padding: 1% 10%;
+}
+.Blacksmithy
 { 
-  background-color : #f2cbbc;
-	padding: 10%;
+  background-color: #f2cbbc;
+}
+.Foundary
+{ 
+  background-color: #b59475;
+}
+.Fitting
+{
+	background-color: #F5F5F5;
+}
+.Machine
+{
+	background-color: #B8B8B8;
+}
+.Welding
+{
+	background-color: #e5e5ff;
+}
+.Electric
+{
+	background-color: #D8BFD8;
+}
+.Carpentry
+{
+	background-color: #6c2505;
+	background-size: 40px 160px, 60px 29px, 27px 27px;
+	color: #e6af4b;
+	background-image: linear-gradient(94deg,rgba(91,33,5,.1) 0%,rgba(83,29,4,0.32) 23%,rgba(74,24,3,.41) 47%,rgba(80,27,5,0.44) 70%,rgba(81,27,5,0.59) 74%,rgba(93,33,4,0.2) 83%,rgba(115,43,3,.5) 100%), linear-gradient(90deg, #541c09 50%, transparent 50%), linear-gradient(90deg, #7a2e00 50%, #632401 50%);
 }
