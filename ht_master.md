@@ -4,14 +4,14 @@
 
 #include "Shops/Blacksmithy/ht_main.md"
 
-#include "Shops/Foundry/main.md"
+#include "Shops/Foundry/ht_main.md"
 
 #include "Shops/Fitting/ht_main.md"
 
-#include "Shops/Machine/main.md"
+#include "Shops/Machine/ht_main.md"
 
-#include "Shops/Welding/main.md"
+#include "Shops/Welding/ht_main.md"
 
-#include "Shops/Electric/main.md"
+#include "Shops/Electric/ht_main.md"
 
-#include "Shops/Carpentry/main.md"
+#include "Shops/Carpentry/ht_main.md"

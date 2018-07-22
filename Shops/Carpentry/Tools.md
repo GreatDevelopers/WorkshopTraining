@@ -1,4 +1,4 @@
-# Tools used in Carpentry Shop
+# TOOLS USED IN CARPENTRY SHOP
 
 Steel Rule :
 :  It is made up of stainless steel and is marked with scales. In this scale also there is graduation in both Inches and centimeters and inches and centimeters are also further divided into smaller divisions. In this scale the conversion table between different units is also mentioned.
