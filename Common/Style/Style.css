@@ -1,7 +1,64 @@
+.nav_bar
+{
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height:3em;
+	top: 0px;
+	position: fixed;
+}
+.menu>ul>li
+{
+	display: inline;
+	list-style: none;
+	padding: .7em;
+}
+.menu>ul>li>a
+{
+	text-decoration: none;
+	color: white;
+}
+.menu
+{
+	text-align: center;
+}
+.menu>ul>li:hover
+{
+	background: rgba(0,0,0,.5);
+}
+.menu>ul>li>.Blacksmithy_ref
+{
+	color: #f2cbbc;
+}
+.menu>ul>li>.Foundry_ref
+{
+	color: #b59475;
+}
+.menu>ul>li>.Fitting_ref
+{
+	color: #F5F5F5;
+}
+.menu>ul>li>.Machine_ref
+{
+	color: #B8B8B8;
+}
+.menu>ul>li>.Welding_ref
+{
+	color: #e5e5ff;
+}
+.menu>ul>li>.Electric_ref
+{
+	color: #D8BFD8;
+}
+.menu>ul>li>.Carpentry_ref
+{
+	color: #6c2505;
+}
 body
 {
+	margin-top: 3em;
 	background-color: black;
 	color: #22264b;
+	padding: 0px;
 }
 .Jobs
 {
