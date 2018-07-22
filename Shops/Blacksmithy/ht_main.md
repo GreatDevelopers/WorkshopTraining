@@ -1,9 +1,15 @@
-<div class="Welding">
-# ***Welding Shop***{.shop}
+<div class="Blacksmithy">
+
+# ***Blacksmithy Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
 #include "Introduction.md"
 
-#include "Jobs.md"
+#include "Tools.md"
+
+#include "Charts.md"
+
+#include "ht_Jobs.md"
+
 </div>
