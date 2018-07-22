@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="Common/Style/Style.css">
+
 #***Summer Workshop Training***
 
-#include "Shops/Blacksmithy/main.md"
+#include "Shops/Blacksmithy/ht_main.md"
 
 #include "Shops/Foundry/main.md"
 
-#include "Shops/Fitting/main.md"
+#include "Shops/Fitting/ht_main.md"
 
 #include "Shops/Machine/main.md"
 
