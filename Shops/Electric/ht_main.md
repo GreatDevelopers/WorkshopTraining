@@ -1,4 +1,4 @@
-# ***Fitting Shop***{.shop}
+# ***Electric Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
@@ -6,4 +6,4 @@
 
 #include "Tools.md"
 
-#include "ht_Jobs.md"
+#include "Jobs.md"
