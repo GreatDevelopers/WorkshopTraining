@@ -21,7 +21,7 @@ Workshop_file : Workshop_file.pdf Workshop_file.html
 
 # Creating Workshop file pdf
 
-Workshop_file.pdf : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FILES) $(MAC_FILES) $(CAR_FILES)
+Workshop_file.pdf : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FILES) $(MAC_FILES) $(CAR_FILES) master.md
 	$(GPP_CMD) training.md master.md
 	$(PD_CMD) $@ training.md
 	rm training.md
@@ -29,7 +29,7 @@ Workshop_file.pdf : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FI
 
 # Creating Workshop file html
 
-Workshop_file.html : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FILES) $(MAC_FILES) $(CAR_FILES)
+Workshop_file.html : $(ELE_FILES) $(FOU_FILES) $(BLS_FILES) $(FIT_FILES) $(WEL_FILES) $(MAC_FILES) $(CAR_FILES) ht_master.md
 	$(GPP_CMD) training.md ht_master.md
 	$(PD_CMD) $@ training.md
 	rm training.md

@@ -1,4 +1,6 @@
-#***Machine Shop***{.shop}
+<div class="Machine">
+
+# ***Machine Shop***{.shop}
 
 #include "Introduction.md"
 
@@ -9,3 +11,5 @@
 #include "Shaper.md"
 
 #include "Jobs.md"
+
+</div>
