@@ -46,8 +46,6 @@ You can simply make the pdf/html file of each shop seperately or a combined file
 
     ```` make ````
 
-    You can find the Workshop_file.pdf and Workshop_file.html within the current directory.
-
 1. To produce pdf/html of individual shop, run the command :
 
     ```` make <particular_shop.pdf/html> ````
@@ -56,13 +54,13 @@ You can simply make the pdf/html file of each shop seperately or a combined file
 
     ```` make Electric.pdf ````
 
-    You can find the pdf/html file in the directory of that particular shop under the Shops directory.
-
 1. To produce the collective files as well the pdf and html for each shop individually, run the command :
 
     ```` make all ````
 
-    Each pdf and html is now present in its respective directory.
+   The output pdf can be found in build/pdf/ directory. 
+
+   Similarly, the output html can be found in build/html/ directory. 
 
 1. To delete the files produced via above commands, run the command :
 
