@@ -65,3 +65,7 @@ You can simply make the pdf/html file of each shop seperately or a combined file
 1. To delete the files produced via above commands, run the command :
 
     ```` make clean ````
+
+1. To find all the possible targets that you can build/run, run the command :
+
+    ````make targets````
