@@ -1,6 +1,6 @@
 ## PROCEDURE
 
-![](Common/Images/electric job 2.png "Extension board"){.Jobs}
+![](../../Common/Images/electric job 2.png "Extension board"){.Jobs}
 
 1. Make layout and connection diagram.
 1. Place the accessories on wooden board as shown in diagram. 

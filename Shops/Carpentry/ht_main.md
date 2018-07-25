@@ -1,6 +1,6 @@
-<div class="Fitting">
+<div class="Carpentry">
 
-# ***Fitting Shop***{.shop}
+# ***Carpentry Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
@@ -8,6 +8,6 @@
 
 #include "Tools.md"
 
-#include "ht_Jobs.md"
+#include "Jobs.md"
 
 </div>
