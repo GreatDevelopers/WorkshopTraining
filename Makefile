@@ -3,7 +3,7 @@
 include files.mk
 include macro.mk
 
-.PHONY : Workshop_file all pdf html clean clean_html clean_pdf 
+.PHONY : Workshop_file Workshop_file.pdf Workshop_file.html all pdf html clean clean_html clean_pdf targets 
 
 # Creating Workshop file
 
@@ -43,5 +43,7 @@ clean_pdf :
 clean_html :
 	$(MAKE) $(HTML_CMD)
 		
-# include build/pdf/pdf.mk
-# include build/html/html.mk
+# Showing all possible targets
+
+targets :
+	sed -n p targets.txt
