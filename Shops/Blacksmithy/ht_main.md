@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
 <div class="Blacksmithy">
 
 # ***Blacksmithy Shop***{.shop}
