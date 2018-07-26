@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
 <div class="Foundary">
 
 # ***Foundry Shop***{.shop}
