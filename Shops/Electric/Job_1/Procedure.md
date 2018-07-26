@@ -1,6 +1,6 @@
 ## PROCEDURE
 
-![](Common/Images/Electric Job 1.png "Circuit of one lamp by one switch"){.Jobs}
+![](../../Common/Images/Electric Job 1.png "Circuit of one lamp by one switch"){.Jobs}
 
 1. Cut the two wooden batten pieces 10" and 8". 
 1. Give the slope cutting on the both ends of batten pieces. 
