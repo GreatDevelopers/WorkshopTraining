@@ -75,8 +75,7 @@ body
 }
 .shop
 {  
-  background: linear-gradient( black, #C0C0C0);
-  color: #FF7F50; 
+  color: black; 
   font-size : 3em;
 }
 .Blacksmithy, .Foundary, .Fitting, .Machine, .Welding, .Electric, .Carpentry
