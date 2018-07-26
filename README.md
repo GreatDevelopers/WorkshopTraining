@@ -24,7 +24,7 @@ The code requires the below mentioned packages to run properly on your system:
 * GPP
 * Make
 
-To install the above mentioned code, run the command :
+To install the above mentioned packages, run the command :
 
  ```` sudo apt-get install git-core pandoc gpp make texlive-full ````
 
