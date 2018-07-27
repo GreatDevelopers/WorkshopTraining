@@ -1,0 +1,54 @@
+
+ Here you can find the list of all the targets that you can build in this project:
+
+* Workshop_file.pdf : This will build the pdf of the whole Workshop file.
+
+* Electric.pdf : This will build the pdf of the Electric shop.
+
+* Carpentry.pdf : This will build the pdf of the Carpentry shop.
+
+* Blacksmithy.pdf : This will build the pdf of the Blacksmithy shop.
+
+* Foundry.pdf : This will build the pdf of the Foundry shop.
+
+* Fitting.pdf : This will build the pdf of the Fitting shop.
+
+* Machine.pdf : This will build the pdf of the Machine shop.
+
+* Welding.pdf : This will build the pdf of the Welding Shop.
+
+* pdf : This will build the pdfs of the Workshop file and each shop individually.
+
+* Workshop_file.html : This will build the html of the whole Workshop file.
+
+* Electric.html : This will build the html of the Electric shop.
+
+* Carpentry.html : This will build the html of the Carpentry shop.
+
+* Blacksmithy.html : This will build the html of the Blacksmithy shop.
+
+* Foundry.html : This will build the html of the Foundry shop.
+
+* Fitting.html : This will build the html of the Fitting shop.
+
+* Machine.html : This will build the html of the Machine shop.
+
+* Welding.html : This will build the html of the Welding Shop.
+
+* html : This will build the htmls of the Workshop file and each shop individually.
+
+* Workshop_file : This will build both the html and pdf of the whole Workshop file.
+
+* all : This will build all the pdfs and htmls.
+
+* clean_pdf : This will clean all the pdfs.
+
+* clean_html : This will clean all the htmls.
+
+* clean : This will clean all the file.
+
+* targets : This will show you the info you are seeing now.
+
+ To build/run any of the above mentioned command, you need to run the command :
+
+ make <target_name>

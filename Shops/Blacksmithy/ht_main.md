@@ -1,5 +1,8 @@
-<div class="BLS">
-#***Blacksmithy Shop***{.shop}
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
+<div class="Blacksmithy">
+
+# ***Blacksmithy Shop***{.shop}
 
 #include "Safety_Precautions.md"
 
@@ -10,4 +13,5 @@
 #include "Charts.md"
 
 #include "ht_Jobs.md"
+
 </div>

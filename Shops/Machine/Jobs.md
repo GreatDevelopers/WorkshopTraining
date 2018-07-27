@@ -1,2 +1,2 @@
-#include "Shops/Machine/Job_1/Job_1.md"
+#include "../../Shops/Machine/Job_1/Job_1.md"
 

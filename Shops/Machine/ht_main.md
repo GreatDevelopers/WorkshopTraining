@@ -1,4 +1,8 @@
-#***Machine Shop***{.shop}
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
+<div class="Machine">
+
+# ***Machine Shop***{.shop}
 
 #include "Introduction.md"
 
@@ -9,3 +13,5 @@
 #include "Shaper.md"
 
 #include "Jobs.md"
+
+</div>
