@@ -1,6 +1,6 @@
 ## PROCEDURE 
 
-![Haunched Mortise & Tenon Joint](../../Common/img_pdf/Crj_1_Dm.pdf "Haunched Mortise & Tenon Joint")
+![](../../Common/svg/Crj_1_Dm.svg "Haunched Mortise & Tenon Joint"){.Jobs}
 
 1. Check the size of given piece it should be 310x52x22mm. 
 1. Plane the 22mm side and make it right angle 
