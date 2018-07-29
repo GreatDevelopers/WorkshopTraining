@@ -31,7 +31,7 @@
 }
 .menu>ul>li>.Foundry_ref
 {
-	color: #b59475;
+	color: #6ab835;
 }
 .menu>ul>li>.Fitting_ref
 {
@@ -51,19 +51,19 @@
 }
 .menu>ul>li>.Carpentry_ref
 {
-	color: #6c2505;
+	color: #de8704;
 }
 body
 {
 	margin-top: 3em;
 	background-color: black;
-	color: #22264b;
 	padding: 0px;
+        font-size: 1.1em;
 }
 .Jobs
 {
 	float: right;
-	height: 220px; 
+	height: 10%; 
 	width: 50%;
 	border: 1px solid black;
         background-color: white;
@@ -85,26 +85,38 @@ body
 }
 .Blacksmithy
 { 
-  background-color: #f2cbbc;
+  color: black;
+  background-image: url("bls.png");
+  background-color: #c93c32;
 }
 .Foundary
 { 
-  background-color: #b59475;
+  color: white;
+  background-image: url("fou.png");
+  background-color: #4a3618;
 }
 .Fitting
 {
-	background-color: #F5F5F5;
+        color: #0b104d;
+        background-image: url("fit.png");
+	background-color: #727373;
 }
 .Machine
 {
-	background-color: #B8B8B8;
+        color: #e0dde0;
+        background-image: url("mac.png");
+  	background-color: #3f3f40;
 }
 .Welding
 {
-	background-color: #e5e5ff;
+        color: #ddd9eb;
+        background-image: url("wel.png");
+	background-color: #615d69;
 }
 .Electric
 {
+        color: #0e0e2b;
+        background-image: url("ele.png");
 	background-color: #D8BFD8;
 }
 .Carpentry
