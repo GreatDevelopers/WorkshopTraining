@@ -16,5 +16,5 @@ HTML_CMD = $@ -C build/html
 SHOPS = Blacksmithy Electric Machine Foundry Fitting Welding Carpentry
 SHOP_PDF = $(patsubst %, %.pdf, $(SHOPS))
 SHOP_HTML = $(patsubst %, %.html, $(SHOPS))
-MSG = echo "\n You can find $@ in "
+MSG = @ echo "\n You can find $@ in "
 
