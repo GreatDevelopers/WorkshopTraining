@@ -46,4 +46,4 @@ clean_html :
 # Showing all possible targets
 
 targets :
-	sed -n p targets.txt
+	@ sed -n p targets.txt

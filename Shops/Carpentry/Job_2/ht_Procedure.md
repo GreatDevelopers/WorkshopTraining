@@ -1,8 +1,8 @@
 ## PROCEDURE 
 
-![Single Miter Mortise and Tenon joint](../../Common/img_pdf/Crj_2_3D.pdf "Single Miter Mortise and Tenon joint")
+![](../../Common/WebGl/Crj_2_3D.html "Single Miter Mortise and Tenon joint"){.Jobs}
 
-![Single Miter Mortise and Tenon joint](../../Common/img_pdf/Crj_2_Dm.pdf "Single Miter Mortise and Tenon joint")
+![](../../Common/svg/Crj_2_Dm.svg "Single Miter Mortise and Tenon joint"){.Jobs}
 
 1. Check the size of given piece it should be 250X4OX30mm. 
 1. Plane the 40 mm side, then cheek its straightness with steel fool rule or with some straight edge. 
