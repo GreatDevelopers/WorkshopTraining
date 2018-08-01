@@ -1506,274 +1506,294 @@
        fill="rgb(0, 0, 0)"
        id="path672" />
   </g>
-<g id="Ortho_1_1"
-   transform="rotate(120,135,100) translate(135,100) scale(0.9,0.9)"
+<g id="Ortho_0_001"
+   transform="rotate(90,248.2,37.7333) translate(248.2,37.7333) scale(1.3,1.3)"
   >
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-dasharray="0.2,0.1)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.115385"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 114 0 L 38 0 " />
+<path id= "2" d=" M 114 0 L 114 -28 " />
+<path id= "3" d=" M 114 -28 L 0 -28 " />
+<path id= "4" d=" M 38 -14 L 38 -21 " />
+<path id= "5" d=" M 38 -14 L 0 -14 " />
+<path id= "6" d=" M 0 -7 L 0 -14 " />
+<path id= "7" d=" M 38 -7 L 0 -7 " />
+<path id= "8" d=" M 38 -14 L 38 -7 " />
+<path id= "9" d=" M 38 -14 L 38 -2.22045e-15 " />
+<path id= "10" d=" M 38 -21 L 0 -21 " />
+</g>
 <g   fill="none"
    stroke="rgb(0, 0, 0)"
    stroke-linecap="butt"
    stroke-linejoin="miter"
-   stroke-width="1.000000"
+   stroke-width="0.269231"
    transform="scale(1,-1)"
   >
-<path id= "1" d=" M -45.2548 -4.89898 L -98.9949 26.1279 " />
-<path id= "2" d=" M -98.9949 26.1279 L -98.9949 47.765 " />
-<path id= "3" d=" M -45.2548 16.7382 L -98.9949 47.765 " />
-<path id= "4" d=" M -45.2548 16.7382 L -45.2548 11.0227 " />
-<path id= "5" d=" M -45.2548 11.0227 L -18.3848 -4.49073 " />
-<path id= "6" d=" M -18.3848 -14.6969 L -18.3848 -4.49073 " />
-<path id= "7" d=" M -45.2548 0.816497 L -18.3848 -14.6969 " />
-<path id= "8" d=" M -45.2548 -4.89898 L -45.2548 0.816497 " />
-<path id= "9" d=" M -45.2548 -4.89898 L -40.3051 -2.04124 " />
-<path id= "10" d=" M -98.9949 47.765 L -72.1249 63.2785 " />
-<path id= "11" d=" M 8.48528 16.7382 L -45.2548 16.7382 " />
-<path id= "12" d=" M -72.1249 63.2785 L 8.48528 16.7382 " />
-<path id= "13" d=" M 8.48528 11.0227 L 8.48528 16.7382 " />
-<path id= "14" d=" M 8.48528 11.0227 L -45.2548 11.0227 " />
-<path id= "15" d=" M -18.3848 -4.49073 L 8.48528 11.0227 " />
-<path id= "16" d=" M -18.3848 -14.6969 L 8.48528 0.816497 " />
-<path id= "17" d=" M 8.48528 0.816497 L 8.48528 11.0227 " />
+<path id= "1" d=" M 38 -3.93197e-12 L 114 -3.93197e-12 " />
+<path id= "2" d=" M 114 -3.94197e-12 L 114 -28 " />
+<path id= "3" d=" M 38 -28 L 114 -28 " />
+<path id= "4" d=" M 38 -28 L 38 -21 " />
+<path id= "5" d=" M 38 -14 L 38 -21 " />
+<path id= "6" d=" M 0 -14 L 38 -14 " />
+<path id= "7" d=" M 0 -7 L 0 -14 " />
+<path id= "8" d=" M 38 -7 L 0 -7 " />
+<path id= "9" d=" M 38 -1.96598e-12 L 38 -7 " />
+<path id= "10" d=" M 0 -28 L 38 -28 " />
+<path id= "11" d=" M 0 -21 L 0 -28 " />
+<path id= "12" d=" M 0 -21 L 38 -21 " />
 </g>
 </g>
 
 
 
-<g id="Ortho_1_0"
-   transform="rotate(180,160,250) translate(160,250) scale(0.75,0.75)"
+<g id="Ortho_1_-002"
+   transform="rotate(60,325.404,34.8171) translate(325.404,34.8171) scale(1.3,1.3)"
   >
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-dasharray="0.2,0.1)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.115385"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 48.7904 -2.85774 L 26.8701 -15.5134 " />
+<path id= "2" d=" M 80.6102 -46.5403 L 26.8701 -15.5134 " />
+<path id= "3" d=" M 107.48 -31.0269 L 80.6102 -46.5403 " />
+<path id= "4" d=" M 80.6102 -46.5403 L 80.6102 -69.4022 " />
+<path id= "5" d=" M 43.8406 -17.1464 L 33.8734 -22.901 " />
+<path id= "6" d=" M 33.8734 -22.901 L 26.8701 -26.9444 " />
+<path id= "7" d=" M 53.7401 -17.1464 L 26.8701 -32.6599 " />
+<path id= "8" d=" M 26.8701 -26.9444 L 26.8701 -32.6599 " />
+<path id= "9" d=" M 33.8734 -22.901 L 23.9062 -17.1464 " />
+<path id= "10" d=" M 33.8734 -17.1855 L 53.7401 -5.71548 " />
+<path id= "11" d=" M 33.8734 -17.1855 L 7.00333 -1.6721 " />
+<path id= "12" d=" M 33.8734 -22.901 L 33.8734 -17.1855 " />
+<path id= "13" d=" M 26.8701 -26.9444 L 26.8701 -15.5134 " />
+<path id= "14" d=" M 26.8701 -32.6599 L -1.53477e-12 -17.1464 " />
+</g>
 <g   fill="none"
    stroke="rgb(0, 0, 0)"
    stroke-linecap="butt"
    stroke-linejoin="miter"
-   stroke-width="1.200000"
+   stroke-width="0.269231"
    transform="scale(1,-1)"
   >
-<path id= "1" d=" M 38 -26 L 38 -102 " />
-<path id= "2" d=" M 38 -26 L 38 12 " />
-<path id= "3" d=" M 38 -102 L -2.74269e-12 -102 " />
-<path id= "4" d=" M -2.74269e-12 12 L 38 -26 " />
-<path id= "5" d=" M -2.74269e-12 -102 L -2.74269e-12 12 " />
-<path id= "6" d=" M 38 12 L -2.01794e-12 12 " />
+<path id= "1" d=" M 53.7401 -3.2081e-12 L 107.48 -31.0269 " />
+<path id= "2" d=" M 107.48 -31.0269 L 107.48 -53.8888 " />
+<path id= "3" d=" M 53.7401 -22.8619 L 107.48 -53.8888 " />
+<path id= "4" d=" M 53.7401 -22.8619 L 53.7401 -17.1464 " />
+<path id= "5" d=" M 53.7401 -11.431 L 53.7401 -17.1464 " />
+<path id= "6" d=" M 26.8701 4.08248 L 53.7401 -11.431 " />
+<path id= "7" d=" M 26.8701 9.79796 L 26.8701 4.08248 " />
+<path id= "8" d=" M 53.7401 -5.71548 L 26.8701 9.79796 " />
+<path id= "9" d=" M 53.7401 -1.60538e-12 L 53.7401 -5.71548 " />
+<path id= "10" d=" M 53.7401 3.38618e-15 L 48.7904 -2.85774 " />
+<path id= "11" d=" M 107.48 -53.8888 L 80.6102 -69.4022 " />
+<path id= "12" d=" M -2.04866e-12 -22.8619 L 53.7401 -22.8619 " />
+<path id= "13" d=" M 80.6102 -69.4022 L -2.04636e-12 -22.8619 " />
+<path id= "14" d=" M -1.53649e-12 -17.1464 L -2.04866e-12 -22.8619 " />
+<path id= "15" d=" M -1.53649e-12 -17.1464 L 53.7401 -17.1464 " />
+<path id= "16" d=" M 53.7401 -11.431 L 43.8406 -17.1464 " />
+<path id= "17" d=" M 23.9062 -17.1464 L 7.00333 -7.38758 " />
+<path id= "18" d=" M 26.8701 4.08248 L 7.00333 -7.38758 " />
+<path id= "19" d=" M 7.00333 -1.6721 L 7.00333 -7.38758 " />
+<path id= "20" d=" M 26.8701 9.79796 L 7.00333 -1.6721 " />
 </g>
 </g>
 
 
 
-<g id="Ortho_0_-1"
-   transform="rotate(90,55,180) translate(55,180) scale(0.9,0.9)"
-  >
-<g   fill="none"
-   stroke="rgb(0, 0, 0)"
-   stroke-linecap="butt"
-   stroke-linejoin="miter"
-   stroke-width="1.000000"
-   transform="scale(1,-1)"
-  >
-<path id= "1" d=" M 102 1.3961e-14 L 26 4.65366e-15 " />
-<path id= "2" d=" M 102 1.3961e-14 L 102 26.5 " />
-<path id= "3" d=" M 102 26.5 L -12 26.5 " />
-<path id= "4" d=" M -12 19.5 L -12 26.5 " />
-<path id= "5" d=" M -12 7 L -12 19.5 " />
-<path id= "6" d=" M 26 7 L -12 7 " />
-<path id= "7" d=" M 26 4.65366e-15 L 26 7 " />
-</g>
-</g>
+<g> <line x1="211.800000" y1="187.933300" x2="211.800000" y2="195.880506" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="248.200000" y1="187.933300" x2="248.200000" y2="195.880506" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="211.800000" y1="194.880506" x2="248.200000" y2="194.880506" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="211.800000,194.880506 208.800000,193.880506 207.800000,194.880506 208.800000,195.880506" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="248.200000,194.880506 251.200000,195.880506 252.200000,194.880506 251.200000,193.880506" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="230.000000" y="192.880506" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 230.000000,192.880506)" >28</text> </g> 
 
 
-
-<g id="Ortho_0_1"
-   transform="rotate(90,55,120) translate(55,120) scale(0.9,0.9)"
-  >
-<g   fill="none"
-   stroke="rgb(0, 0, 0)"
-   stroke-linecap="butt"
-   stroke-linejoin="miter"
-   stroke-width="1.000000"
-   transform="scale(1,-1)"
-  >
-<path id= "1" d=" M -26 3.93662e-12 L -102 3.94593e-12 " />
-<path id= "2" d=" M -102 3.94593e-12 L -102 26.5 " />
-<path id= "3" d=" M -26 26.5 L -102 26.5 " />
-<path id= "4" d=" M -26 26.5 L -26 19.5 " />
-<path id= "5" d=" M -26 19.5 L 12 19.5 " />
-<path id= "6" d=" M 12 7 L 12 19.5 " />
-<path id= "7" d=" M -26 7 L 12 7 " />
-<path id= "8" d=" M -26 -6.39488e-14 L -26 7 " />
-<path id= "9" d=" M 12 26.5 L -26 26.5 " />
-<path id= "10" d=" M 12 19.5 L 12 26.5 " />
-</g>
-</g>
+<g> <line x1="209.799999" y1="37.733300" x2="202.676251" y2="37.733300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="209.799999" y1="185.933300" x2="202.676251" y2="185.933300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="203.676251" y1="37.733300" x2="203.676251" y2="185.933300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="203.676251,37.733300 204.676251,34.733300 203.676251,33.733300 202.676251,34.733300" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="203.676251,185.933300 202.676251,188.933300 203.676251,189.933300 204.676251,188.933300" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="201.676251" y="111.833300" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(-90.000000 201.676251,111.833300)" >114</text> </g> 
 
 
-
-<g> 
-  <line x1="53.000000" y1="28.200000" x2="24.790168" y2="28.200000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="53.000000" y1="96.600000" x2="24.790168" y2="96.600000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="25.790168" y1="28.200000" x2="25.790168" y2="96.600000" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="25.790168,96.600000 26.790168,93.600000 25.790168,92.600000 24.790168,93.600000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="25.790168,28.200000 24.790168,31.200000 25.790168,32.200000 26.790168,31.200000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="23.790168" y="62.400000" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 23.790168,62.400000)" >76</text> </g>
-
-
-<g> 
-  <line x1="59.300000" y1="96.600000" x2="25.363282" y2="96.600000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="59.300000" y1="130.800000" x2="25.363282" y2="130.800000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="26.363282" y1="96.600000" x2="26.363282" y2="130.800000" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="26.363282,130.800000 27.363282,127.800000 26.363282,126.800000 25.363282,127.800000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="26.363282,96.600000 25.363282,99.600000 26.363282,100.600000 27.363282,99.600000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="24.363282" y="113.700000" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 24.363282,113.700000)" >38</text> </g>
+<g> <line x1="230.000000" y1="35.733299" x2="230.000000" y2="29.699986" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="239.100000" y1="35.733299" x2="239.100000" y2="29.699986" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="230.000000" y1="30.699986" x2="239.100000" y2="30.699986" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="230.000000,30.699986 227.000000,29.699986 226.000000,30.699986 227.000000,31.699986" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="239.100000,30.699986 242.100000,31.699986 243.100000,30.699986 242.100000,29.699986" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="234.550000" y="28.699986" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 234.550000,28.699986)" >7</text> </g> 
 
 
-<g> 
-  <line x1="80.850000" y1="28.200000" x2="97.856407" y2="28.200000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="80.850000" y1="130.800000" x2="97.856407" y2="130.800000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="96.856407" y1="28.200000" x2="96.856407" y2="130.800000" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="96.856407,130.800000 97.856407,127.800000 96.856407,126.800000 95.856407,127.800000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="96.856407,28.200000 95.856407,31.200000 96.856407,32.200000 97.856407,31.200000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="94.856407" y="79.500000" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 94.856407,79.500000)" >114</text> </g>
+<g> <line x1="211.800000" y1="35.733299" x2="211.800000" y2="30.030093" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="220.900000" y1="35.733299" x2="220.900000" y2="30.030093" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="211.800000" y1="31.030093" x2="220.900000" y2="31.030093" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="211.800000,31.030093 208.800000,30.030093 207.800000,31.030093 208.800000,32.030093" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="220.900000,31.030093 223.900000,32.030093 224.900000,31.030093 223.900000,30.030093" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="216.350000" y="29.030093" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 216.350000,29.030093)" >7</text> </g> 
 
 
-<g> 
-  <line x1="55.000000" y1="273.800000" x2="55.000000" y2="282.972500" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="78.850000" y1="273.800000" x2="78.850000" y2="282.972500" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="55.000000" y1="281.972500" x2="78.850000" y2="281.972500" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="78.850000,281.972500 75.850000,280.972500 74.850000,281.972500 75.850000,282.972500" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="55.000000,281.972500 58.000000,282.972500 59.000000,281.972500 58.000000,280.972500" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="66.925000" y="279.972500" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(0.000000 66.925000,279.972500)" >26.5</text> </g>
+<g> <line x1="220.900000" y1="69.982764" x2="230.000000" y2="69.982764" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="220.900000,69.982764 217.900000,68.982764 216.900000,69.982764 217.900000,70.982764" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="230.000000,69.982764 233.000000,70.982764 234.000000,69.982764 233.000000,68.982764" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="225.450000" y="67.982764" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(-0.000000 225.450000,67.982764)" >7</text> </g> 
 
 
-<g> 
-  <line x1="131.500000" y1="232.500000" x2="131.500000" y2="280.106926" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="160.000000" y1="261.000000" x2="160.000000" y2="280.106926" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="131.500000" y1="279.106926" x2="160.000000" y2="279.106926" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="160.000000,279.106926 157.000000,278.106926 156.000000,279.106926 157.000000,280.106926" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="131.500000,279.106926 134.500000,280.106926 135.500000,279.106926 134.500000,278.106926" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="145.750000" y="277.106926" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(0.000000 145.750000,277.106926)" >38</text> </g>
+<g> <line x1="239.100000" y1="85.133299" x2="239.100000" y2="68.982764" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="248.200000" y1="85.133299" x2="248.200000" y2="68.982764" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="239.100000" y1="69.982764" x2="248.200000" y2="69.982764" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="239.100000,69.982764 236.100000,68.982764 235.100000,69.982764 236.100000,70.982764" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="248.200000,69.982764 251.200000,70.982764 252.200000,69.982764 251.200000,68.982764" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="243.650000" y="67.982764" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 243.650000,67.982764)" >7</text> </g> 
 
 
-<g> 
-  <line x1="129.500000" y1="230.500000" x2="113.049853" y2="230.500000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="129.500000" y1="259.000000" x2="113.049853" y2="259.000000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="114.049853" y1="230.500000" x2="114.049853" y2="259.000000" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="114.049853,259.000000 115.049853,256.000000 114.049853,255.000000 113.049853,256.000000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="114.049853,230.500000 113.049853,233.500000 114.049853,234.500000 115.049853,233.500000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="112.049853" y="244.750000" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 112.049853,244.750000)" >38</text> </g>
-
-
-<g> 
-  <line x1="129.500000" y1="173.500000" x2="113.622967" y2="173.500000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="129.500000" y1="230.500000" x2="113.622967" y2="230.500000" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="114.622967" y1="173.500000" x2="114.622967" y2="230.500000" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="114.622967,230.500000 115.622967,227.500000 114.622967,226.500000 113.622967,227.500000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="114.622967,173.500000 113.622967,176.500000 114.622967,177.500000 115.622967,176.500000" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="112.622967" y="202.000000" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 112.622967,202.000000)" >76</text> </g>
-
-
-<g> 
-  <line x1="61.300000" y1="167.200000" x2="61.300000" y2="149.156087" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="78.850000" y1="167.200000" x2="78.850000" y2="149.156087" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="61.300000" y1="150.156087" x2="78.850000" y2="150.156087" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="78.850000,150.156087 75.850000,149.156087 74.850000,150.156087 75.850000,151.156087" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="61.300000,150.156087 64.300000,151.156087 65.300000,150.156087 64.300000,149.156087" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="70.075000" y="148.156087" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(0.000000 70.075000,148.156087)" >19.5</text> </g>
+<g> <line x1="250.200001" y1="87.133300" x2="259.804183" y2="87.133300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="250.200001" y1="185.933300" x2="259.804183" y2="185.933300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="258.804183" y1="87.133300" x2="258.804183" y2="185.933300" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="258.804183,87.133300 259.804183,84.133300 258.804183,83.133300 257.804183,84.133300" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="258.804183,185.933300 257.804183,188.933300 258.804183,189.933300 259.804183,188.933300" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="256.804183" y="136.533300" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(-90.000000 256.804183,136.533300)" >76</text> </g> 
 
 
 <g id="Ortho_0_0"
-   transform="rotate(-90,250,130) translate(250,130) scale(0.9,0.9)"
+   transform="rotate(90,148.2,126.248) translate(148.2,126.248) scale(1.3,1.3)"
   >
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-dasharray="0.2,0.1)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.115385"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 114.502 0 L 0.501595 0 " />
+<path id= "2" d=" M 114.502 0 L 114.502 -28 " />
+<path id= "3" d=" M 0.501595 0 L 0.501595 -21 " />
+<path id= "4" d=" M 114.502 -28 L 38 -28 " />
+<path id= "5" d=" M 0.501595 -21 L 38 -21 " />
+<path id= "6" d=" M 38 -28 L 38 -21 " />
+<path id= "7" d=" M 37.9255 -13.9799 L 37.9255 -6.97988 " />
+<path id= "8" d=" M 9.9255 -13.9799 L 37.9255 -13.9799 " />
+<path id= "9" d=" M 9.9255 -6.97988 L 9.9255 -13.9799 " />
+<path id= "10" d=" M 37.9255 -6.97988 L 9.9255 -6.97988 " />
+<path id= "11" d=" M 0.501595 -21 L 0.501595 -28 " />
+<path id= "12" d=" M 0.501595 -28 L 38 -28 " />
+<path id= "13" d=" M 0.501595 -21 L 38 -21 " />
+</g>
 <g   fill="none"
    stroke="rgb(0, 0, 0)"
    stroke-linecap="butt"
    stroke-linejoin="miter"
-   stroke-width="0.555556"
+   stroke-width="0.269231"
    transform="scale(1,-1)"
   >
-<path id= "1" d=" M 114.62 -24.3097 L 114.056 2.17855 " />
-<path id= "2" d=" M 38.0852 0.590464 L 114.056 2.17855 " />
-<path id= "3" d=" M 0.365432 -12.698 L 37.671 -11.9182 " />
-<path id= "4" d=" M 113.957 -25.1179 L 37.9856 -26.706 " />
-<path id= "5" d=" M 114.62 -24.3097 L 113.957 -25.1179 " />
-<path id= "6" d=" M 113.957 -25.1179 L 113.393 1.37034 " />
-<path id= "7" d=" M 114.056 2.17855 L 113.393 1.37034 " />
-<path id= "8" d=" M -0.563616 -1.01178 L 38.0852 0.590464 " />
-<path id= "9" d=" M 113.393 1.37034 L -0.563616 -1.01178 " />
-<path id= "10" d=" M -0.446639 -6.50934 L -0.563616 -1.01178 " />
-<path id= "11" d=" M 37.6879 -12.7122 L 37.539 -5.7153 " />
-<path id= "12" d=" M 0.365432 -12.698 L -0.29776 -13.5062 " />
-<path id= "13" d=" M -0.29776 -13.5062 L 37.6879 -12.7122 " />
-<path id= "14" d=" M -0.14888 -20.5031 L -0.29776 -13.5062 " />
-<path id= "15" d=" M 37.8367 -19.7091 L -0.14888 -20.5031 " />
-<path id= "16" d=" M 37.9856 -26.706 L 37.8367 -19.7091 " />
-<path id= "17" d=" M 37.539 -5.7153 L -0.446639 -6.50934 " />
+<path id= "1" d=" M 0.501595 5.90639e-14 L 114.502 5.90639e-14 " />
+<path id= "2" d=" M 114.502 5.90639e-14 L 114.502 -28 " />
+<path id= "3" d=" M 0.501595 5.90639e-14 L 0.501595 -28 " />
+<path id= "4" d=" M 0.501595 -28 L 114.502 -28 " />
+<path id= "5" d=" M 37.9255 -6.97988 L 37.9255 -13.9799 " />
+<path id= "6" d=" M 37.9255 -13.9799 L 9.9255 -13.9799 " />
+<path id= "7" d=" M 9.9255 -13.9799 L 9.9255 -6.97988 " />
+<path id= "8" d=" M 9.9255 -6.97988 L 37.9255 -6.97988 " />
 </g>
 </g>
 
 
 
-<g id="Ortho_1_002"
-   transform="rotate(90,350,220) translate(350,220) scale(0.9,0.9)"
+<g id="Ortho_-1_1"
+   transform="rotate(60,45.4038,121.451) translate(45.4038,121.451) scale(1.3,1.3)"
   >
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-dasharray="0.2,0.1)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.115385"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 80.9649 -46.7451 L 0.354681 -0.204775 " />
+<path id= "2" d=" M 80.9649 -46.7451 L 80.9649 -69.607 " />
+<path id= "3" d=" M 26.8701 -38.3753 L 26.8701 -32.6599 " />
+<path id= "4" d=" M 26.8174 -26.8975 L 26.8174 -21.1821 " />
+<path id= "5" d=" M 7.01839 -15.4666 L 26.8174 -26.8975 " />
+<path id= "6" d=" M 7.01839 -9.75112 L 7.01839 -15.4666 " />
+<path id= "7" d=" M 26.8174 -21.1821 L 7.01839 -9.75112 " />
+<path id= "8" d=" M 107.835 -31.2316 L 80.9649 -46.7451 " />
+<path id= "9" d=" M 26.8701 -2.04254 L 26.8701 -32.6599 " />
+<path id= "10" d=" M 53.6874 -11.3841 L 26.8174 -26.8975 " />
+<path id= "11" d=" M 48.7377 -8.52637 L 26.8174 -21.1821 " />
+<path id= "12" d=" M 33.8884 0.0468428 L 7.01839 -15.4666 " />
+<path id= "13" d=" M 33.8884 5.76232 L 7.01839 -9.75112 " />
+</g>
 <g   fill="none"
    stroke="rgb(0, 0, 0)"
    stroke-linecap="butt"
    stroke-linejoin="miter"
-   stroke-width="0.555556"
+   stroke-width="0.269231"
    transform="scale(1,-1)"
   >
-<path id= "1" d=" M -38.6488 -26.5055 L -114.62 -25.1454 " />
-<path id= "2" d=" M -114.62 -25.1454 L -114.056 -24.5916 " />
-<path id= "3" d=" M -38.0852 -25.9518 L -114.056 -24.5916 " />
-<path id= "4" d=" M -38.0852 -25.9518 L -38.2022 -26.0667 " />
-<path id= "5" d=" M -38.2022 -26.0667 L -38.2341 -26.0981 " />
-<path id= "6" d=" M -38.351 -26.213 L -38.2341 -26.0981 " />
-<path id= "7" d=" M -0.365432 -26.8931 L -38.351 -26.213 " />
-<path id= "8" d=" M -0.514312 -27.0393 L -0.365432 -26.8931 " />
-<path id= "9" d=" M -38.4999 -26.3593 L -0.514312 -27.0393 " />
-<path id= "10" d=" M -38.6488 -26.5055 L -38.4999 -26.3593 " />
-<path id= "11" d=" M -114.62 -25.1454 L -113.957 12.8403 " />
-<path id= "12" d=" M -113.957 12.8403 L -113.393 13.394 " />
-<path id= "13" d=" M -114.056 -24.5916 L -113.393 13.394 " />
-<path id= "14" d=" M 0.563616 11.3537 L -38.0852 -25.9518 " />
-<path id= "15" d=" M -113.393 13.394 L 0.563616 11.3537 " />
-<path id= "16" d=" M 0.446639 11.2388 L 0.563616 11.3537 " />
-<path id= "17" d=" M 0.446639 11.2388 L -38.2022 -26.0667 " />
-<path id= "18" d=" M -0.365432 -26.8931 L 0.29776 11.0925 " />
-<path id= "19" d=" M 0.29776 11.0925 L 0.29515 11.0926 " />
+<path id= "1" d=" M 0.354681 -0.204775 L 0.354681 -17.3512 " />
+<path id= "2" d=" M 80.9649 -69.607 L 26.8701 -38.3753 " />
+<path id= "3" d=" M 0.354681 -17.3512 L 26.8701 -32.6599 " />
+<path id= "4" d=" M 0.354681 -0.204775 L 27.2247 15.3087 " />
+<path id= "5" d=" M 27.2247 15.3087 L 107.835 -31.2316 " />
+<path id= "6" d=" M 107.835 -31.2316 L 107.835 -54.0935 " />
+<path id= "7" d=" M 107.835 -54.0935 L 80.9649 -69.607 " />
+<path id= "8" d=" M 27.2247 15.3087 L 27.2247 -7.55324 " />
+<path id= "9" d=" M 26.8701 -7.75802 L 27.2247 -7.55324 " />
+<path id= "10" d=" M 26.8701 -2.04254 L 26.8701 -7.75802 " />
+<path id= "11" d=" M 0.354681 -17.3512 L 26.8701 -2.04254 " />
+<path id= "12" d=" M 27.2247 -7.55324 L 107.835 -54.0935 " />
+<path id= "13" d=" M 26.8701 -7.75802 L 26.8701 -38.3753 " />
+<path id= "14" d=" M 53.6874 -5.66863 L 53.6874 -11.3841 " />
+<path id= "15" d=" M 53.6874 -5.66863 L 48.7377 -8.52637 " />
+<path id= "16" d=" M 53.6874 -11.3841 L 33.8884 0.0468428 " />
+<path id= "17" d=" M 33.8884 0.0468428 L 33.8884 5.76232 " />
+<path id= "18" d=" M 33.8884 5.76232 L 53.6874 -5.66863 " />
 </g>
 </g>
 
 
 
-<g> 
-  <line x1="274.606110" y1="27.438700" x2="293.861682" y2="27.438700" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="276.035400" y1="95.812960" x2="293.861682" y2="95.812960" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="292.861682" y1="27.438700" x2="292.861682" y2="95.812960" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="292.861682,95.812960 293.861682,92.812960 292.861682,91.812960 291.861682,92.812960" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="292.861682,27.438700 291.861682,30.438700 292.861682,31.438700 293.861682,30.438700" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="290.861682" y="61.625830" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 290.861682,61.625830)" >75.971</text> </g>
+<g> <line x1="130.026130" y1="137.151149" x2="130.026130" y2="121.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="139.126156" y1="137.151149" x2="139.126156" y2="121.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="130.026130" y1="122.139729" x2="139.126156" y2="122.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="130.026130,122.139729 127.026130,121.139729 126.026130,122.139729 127.026130,123.139729" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="139.126156,122.139729 142.126156,123.139729 143.126156,122.139729 142.126156,121.139729" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="134.576143" y="120.139729" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 134.576143,120.139729)" >7</text> </g> 
 
 
-<g> 
-  <line x1="255.900952" y1="132.401523" x2="256.440529" y2="157.759951" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="268.495336" y1="132.133539" x2="269.034913" y2="157.491968" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="256.419255" y1="156.760177" x2="269.013639" y2="156.492194" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="269.013639,156.492194 265.993045,155.556240 265.014545,156.577287 266.035591,157.555788" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="256.419255,156.760177 259.439850,157.696132 260.418350,156.675085 259.397303,155.696584" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="262.673901" y="154.626638" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-1.218955 262.673901,154.626638)" >13.997</text> </g>
+<g> <line x1="111.800000" y1="124.900073" x2="111.800000" y2="121.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="120.900000" y1="124.900073" x2="120.900000" y2="121.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="111.800000" y1="122.139729" x2="120.900000" y2="122.139729" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="111.800000,122.139729 108.800000,121.139729 107.800000,122.139729 108.800000,123.139729" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="120.900000,122.139729 123.900000,123.139729 124.900000,122.139729 123.900000,121.139729" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="116.350000" y="120.139729" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 116.350000,120.139729)" >7</text> </g> 
 
 
-<g> 
-  <line x1="246.767131" y1="27.988098" x2="234.545596" y2="28.243574" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="248.911039" y1="130.549053" x2="236.689504" y2="130.804529" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="235.545378" y1="28.222675" x2="237.689286" y2="130.783629" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="237.689286,130.783629 238.626370,127.763385 237.605689,126.784503 236.626806,127.805184" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="235.545378,28.222675 234.608293,31.242919 235.628974,32.221801 236.607857,31.201121" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="234.617768" y="79.544951" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-91.197522 234.617768,79.544951)" >113.982</text> </g>
+<g> <line x1="111.800000" y1="124.900073" x2="111.800000" y2="110.136150" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="148.200000" y1="124.900073" x2="148.200000" y2="110.136150" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="111.800000" y1="111.136150" x2="148.200000" y2="111.136150" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="111.800000,111.136150 108.800000,110.136150 107.800000,111.136150 108.800000,112.136150" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="148.200000,111.136150 151.200000,112.136150 152.200000,111.136150 151.200000,110.136150" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="130.000000" y="109.136150" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(0.000000 130.000000,109.136150)" >28</text> </g> 
 
 
-<g> 
-  <line x1="324.276630" y1="185.350090" x2="298.165945" y2="185.350090" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="323.664630" y1="219.537119" x2="298.165945" y2="219.537119" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="299.165945" y1="185.350090" x2="299.165945" y2="219.537119" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="299.165945,219.537119 300.165945,216.537119 299.165945,215.537119 298.165945,216.537119" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="299.165945,185.350090 298.165945,188.350090 299.165945,189.350090 300.165945,188.350090" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="297.165945" y="202.443605" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000000 297.165945,202.443605)" >37.986</text> </g>
-
-
-<g> 
-  <line x1="362.054600" y1="115.946300" x2="362.054600" y2="89.552144" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="327.867560" y1="115.349600" x2="327.867560" y2="89.552144" style="stroke:rgb(0,0,255);stroke-width:0.30" />
-<line x1="362.054600" y1="90.552144" x2="327.867560" y2="90.552144" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
-  <polygon points="327.867560,90.552144 330.867560,91.552144 331.867560,90.552144 330.867560,89.552144" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="362.054600,90.552144 359.054600,89.552144 358.054600,90.552144 359.054600,91.552144" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
-  <text x="344.961080" y="88.552144" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(0.000000 344.961080,88.552144)" >37.986</text> </g>
+<g> <line x1="109.799999" y1="126.900074" x2="101.608376" y2="126.900074" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="109.799999" y1="275.100600" x2="101.608376" y2="275.100600" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<line x1="102.608376" y1="126.900074" x2="102.608376" y2="275.100600" style="stroke:rgb(0,0,255);stroke-width:0.50" />
+<polygon points="102.608376,126.900074 103.608376,123.900074 102.608376,122.900074 101.608376,123.900074" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<polygon points="102.608376,275.100600 101.608376,278.100600 102.608376,279.100600 103.608376,278.100600" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" />
+<text x="100.608376" y="201.000337" font-family="inherit" font-size="3.6" fill="rgb(0,0,255)" text-anchor="middle" transform="rotate(-90.000000 100.608376,201.000337)" >114</text> </g> 
 
 
   <g
