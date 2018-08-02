@@ -1,5 +1,7 @@
 ## PROCEDURE 
 
+![Haunched Mortise & Tenon Joint](../../Common/img_pdf/Crj_1_3D.pdf "Haunched Mortise & Tenon Joint")
+
 ![Haunched Mortise & Tenon Joint](../../Common/img_pdf/Crj_1_Dm.pdf "Haunched Mortise & Tenon Joint")
 
 1. Check the size of given piece it should be 310x52x22mm. 
