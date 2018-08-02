@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
 <div class="Foundary">
 
 # ***Foundry Shop***{.shop}
@@ -6,6 +8,6 @@
 
 #include "CFF.md"
 
-#include "Jobs.md"
+#include "ht_Jobs.md"
 
 </div>

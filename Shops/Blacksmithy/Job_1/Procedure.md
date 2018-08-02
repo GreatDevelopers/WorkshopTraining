@@ -1,5 +1,7 @@
 ## PROCEDURE
 
+![Hexagonal Chiesel](../../Common/img_pdf/Bsj_1_3D.pdf "Hexagonal Chiesel")
+
 ![Hexagonal Chiesel](../../Common/img_pdf/Bsj_1_Dm.pdf "Hexagonal Chiesel")
 
 1. Take a bar of M.S.Rod of size 5/8". Cut it to size 3 1/2" with the help of chisel and sledge hammer on anvil and swage block. 

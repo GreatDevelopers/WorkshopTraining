@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../Common/Style/Style.css">
+
 <div class="Carpentry">
 
 # ***Carpentry Shop***{.shop}
@@ -8,6 +10,6 @@
 
 #include "Tools.md"
 
-#include "Jobs.md"
+#include "ht_Jobs.md"
 
 </div>
