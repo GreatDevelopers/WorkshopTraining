@@ -10,11 +10,11 @@
 
 #include "Size.md"
 
+![TIG welding](../../Common/img_pdf/Wlj_1_3D.pdf "TIG welding")
+
+![TIG welding](../../Common/img_pdf/Wlj_1_Dm.pdf "TIG welding")
+	
 #include "Theory.md"
-
-![Self Core Pattern](../../Common/img_pdf/Wlj_1_3D.pdf "TIG welding")
-
-![Self Core Pattern](../../Common/img_pdf/Wlj_1_Dm.pdf "TIG welding")
 
 #include "Procedure.md"
 	
