@@ -12,7 +12,11 @@
 
 #include "Theory.md"
 
-#include "Procedure.md"
+![Self Core Pattern](../../Common/img_pdf/Wlj_1_3D.pdf "Welding job 1")
 
+![Self Core Pattern](../../Common/img_pdf/Wlj_1_Dm.pdf "Welding job dimension")
+
+#include "Procedure.md"
+	
 #include "Precautions.md"
 

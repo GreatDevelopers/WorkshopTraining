@@ -12,9 +12,9 @@
 
 #include "Theory.md"
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_2_3D.pdf "Welding job 2")
+![](../../Common/WebGl/Wlj_1_3D.html "welding job 1"){.Jobs}
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_2_Dm.pdf "Welding job 2 dimension")
+![](../../Common/svg/Wlj_1_Dm.svg "dimension job 1"){.Jobs}
 
 #include "Procedure.md"
 

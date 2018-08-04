@@ -4,17 +4,15 @@
 
 #include "Apparatus.md"
 
-#include "Gas.md"
-
 #include "../Job_Material.md"
 
 #include "Size.md"
 
 #include "Theory.md"
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_2_3D.pdf "Welding job 2")
+![](../../Common/WebGl/Wlj_3_3D.html "Welding job 3"){.Jobs}
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_2_Dm.pdf "Welding job 2 dimension")
+![](../../Common/svg/Wlj_3_Dm.svg "Welding job 3 dimension"){.Jobs}
 
 #include "Procedure.md"
 
