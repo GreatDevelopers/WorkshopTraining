@@ -12,9 +12,9 @@
 
 #include "Theory.md"
 
-![](../../Common/WebGl/Wlj_1_3D.html "welding job 1"){.Jobs}
+![](../../Common/WebGl/Wlj_1_3D.html "TIG Welding"){.Jobs}
 
-![](../../Common/svg/Wlj_1_Dm.svg "dimension job 1"){.Jobs}
+![](../../Common/svg/Wlj_1_Dm.svg "TIG Welding"){.Jobs}
 
 #include "Procedure.md"
 

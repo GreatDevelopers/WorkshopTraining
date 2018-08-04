@@ -12,9 +12,9 @@
 
 #include "Theory.md"
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_1_3D.pdf "Welding job 1")
+![Self Core Pattern](../../Common/img_pdf/Wlj_1_3D.pdf "TIG welding")
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_1_Dm.pdf "Welding job dimension")
+![Self Core Pattern](../../Common/img_pdf/Wlj_1_Dm.pdf "TIG welding")
 
 #include "Procedure.md"
 	

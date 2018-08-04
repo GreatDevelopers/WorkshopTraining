@@ -10,9 +10,9 @@
 
 #include "Theory.md"
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_3_3D.pdf "Welding job 3")
+![Self Core Pattern](../../Common/img_pdf/Wlj_3_3D.pdf "Spot Welding")
 
-![Self Core Pattern](../../Common/img_pdf/Wlj_3_Dm.pdf "Welfing job 3 dimension")
+![Self Core Pattern](../../Common/img_pdf/Wlj_3_Dm.pdf "Spot Welding")
 
 #include "Procedure.md"
 
